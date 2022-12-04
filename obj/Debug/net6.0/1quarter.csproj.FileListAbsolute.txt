@@ -1,0 +1,15 @@
+E:\Educat\1quarter\1quarter\obj\Debug\net6.0\1quarter.csproj.AssemblyReference.cache
+E:\Educat\1quarter\1quarter\obj\Debug\net6.0\1quarter.GeneratedMSBuildEditorConfig.editorconfig
+E:\Educat\1quarter\1quarter\obj\Debug\net6.0\1quarter.AssemblyInfoInputs.cache
+E:\Educat\1quarter\1quarter\obj\Debug\net6.0\1quarter.AssemblyInfo.cs
+E:\Educat\1quarter\1quarter\obj\Debug\net6.0\1quarter.csproj.CoreCompileInputs.cache
+E:\Educat\1quarter\1quarter\bin\Debug\net6.0\1quarter.exe
+E:\Educat\1quarter\1quarter\bin\Debug\net6.0\1quarter.deps.json
+E:\Educat\1quarter\1quarter\bin\Debug\net6.0\1quarter.runtimeconfig.json
+E:\Educat\1quarter\1quarter\bin\Debug\net6.0\1quarter.dll
+E:\Educat\1quarter\1quarter\bin\Debug\net6.0\1quarter.pdb
+E:\Educat\1quarter\1quarter\obj\Debug\net6.0\1quarter.dll
+E:\Educat\1quarter\1quarter\obj\Debug\net6.0\refint\1quarter.dll
+E:\Educat\1quarter\1quarter\obj\Debug\net6.0\1quarter.pdb
+E:\Educat\1quarter\1quarter\obj\Debug\net6.0\1quarter.genruntimeconfig.cache
+E:\Educat\1quarter\1quarter\obj\Debug\net6.0\ref\1quarter.dll
